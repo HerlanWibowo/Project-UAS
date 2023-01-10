@@ -3,6 +3,7 @@
 ### NIM  :312210324
 ### Kelas:TI 22 A3
 ### Link Youtube :https://youtu.be/28Epgna6mvs
+### Link PDF :[link](https://github.com/HerlanWibowo/Project-UAS/blob/main/UAS%20Basprog.pdf)
 ### Buat program data Mahasiswa Mengggunakan Package dan modul paada Python
 #### Saya akan membuat package dan modul di pycharm
 
